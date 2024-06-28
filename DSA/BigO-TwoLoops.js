@@ -9,3 +9,4 @@ function logItems(n) {
  }
  
  logItems(3)
+ 
